@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![https://clarkeadg.github.io/fm-qr-code-component/](https://clarkeadg.github.io/fm-qr-code-component/images/screenshot.jpg)
+![](https://clarkeadg.github.io/fm-qr-code-component/images/screenshot.jpg)
 
 ### Links
 
@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Built with
 
 - [React](https://reactjs.org/) - JS library
-- [Vite](https://vitejs.dev/) - Project framework
+- [Vite](https://vitejs.dev/) - Frontend Tooling
 - [Tailwind](https://tailwindcss.com/) - For styles
 
 ## Getting Started
