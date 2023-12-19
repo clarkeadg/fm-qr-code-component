@@ -41,6 +41,11 @@ npm install
 npm run dev
 ```
 
+### Run Tests
+```
+npm run test
+```
+
 ### Build for Production
 ```
 npm run build
