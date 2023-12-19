@@ -25,6 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [React](https://reactjs.org/) - JS library
 - [Vite](https://vitejs.dev/) - Frontend Tooling
 - [Tailwind](https://tailwindcss.com/) - For styles
+- [Vitest](https://vitest.dev/) - Testing framework
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - For tests
 
 ## Getting Started
 
@@ -54,5 +56,5 @@ npm run build
 ## Author
 
 - Website - [Brian Clarke](https://www.clarkeanimation.com)
-- Frontend Mentor - [@clarkeadg](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@clarkeadg](https://www.frontendmentor.io/profile/clarkeadg)
 
