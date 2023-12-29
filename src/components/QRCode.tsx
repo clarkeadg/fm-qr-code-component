@@ -2,7 +2,7 @@ import imgUrl from '../assets/image-qr-code.png'
 
 const QRCode = () => {
   return (
-    <div className="bg-white max-w-[320px] rounded-3xl overflow-hidden shadow-lg p-4 text-center">
+    <div className="bg-white w-[320px] max-w-full rounded-3xl overflow-hidden shadow-lg p-4 text-center">
       <div className="rounded-xl overflow-hidden">
         <img className="w-full" src={imgUrl} alt="QR Code"/>
       </div>      
